@@ -1,0 +1,23 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "ban-comma-operator": true,
+        "curly": true,
+        "no-any": true,
+        "no-arg": true,
+        "no-console": false,
+        "no-duplicate-super": true,
+        "no-duplicate-switch-case": true,
+        "no-duplicate-variable": true,
+        "no-return-await": true,
+        "no-shadowed-variable": true,
+        "no-sparse-arrays": true,
+        "no-unsafe-finally": true,
+        "prefer-for-of": true
+    },
+    "rulesDirectory": []
+}

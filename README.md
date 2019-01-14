@@ -13,7 +13,7 @@ use NPM to download its dependencies:
 npm install
 ```
 
-Transpile the `.ts` files to `.js files:
+Transpile the `.ts` files to `.js` files:
 
 ```bash
 tsc
